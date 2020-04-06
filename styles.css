@@ -1,0 +1,42 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+#wrapper {
+    background-color: #faf7f7;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+#ime {
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.bitan-info {
+    font-weight: 700;
+}
+
+#slika {
+    width: 200px;
+    height: 200px;
+    background-image: url(profilna.jpg);
+    background-position: center top;
+    border-radius: 100%;
+    margin-top: 12px;
+}
+
+#Burch-logo {
+    width: 400px;
+    height: 115px;
+    background-image: url(IBU-426_113.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
